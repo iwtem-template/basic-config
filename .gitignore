@@ -1,0 +1,5 @@
+.idea/
+*.iml
+.svn/
+.git/
+.DS_Store

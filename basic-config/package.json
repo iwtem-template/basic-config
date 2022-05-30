@@ -1,0 +1,26 @@
+{
+  "name": "@iwtem/template",
+  "author": "iwtem",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "scaffold",
+    "react"
+  ],
+  "description": "基础配置模版",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "engines": {
+    "node": "^12.13.0 || ^14.15.0 || >=16"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "eslint": "^8.15.0",
+    "husky": "^8.0.0",
+    "prettier": "^2.6.2",
+    "pretty-quick": "^3.1.3"
+  }
+}
