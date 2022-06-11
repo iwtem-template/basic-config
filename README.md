@@ -8,9 +8,9 @@
 [license-image]: https://img.shields.io/github/license/iwtem-templates/basic-config
 
 
-🤖 该模板主要应用于快速搭建开发脚手架、功能库等常用的基础配置
+🚗 该模板主要应用于快速搭建开发脚手架、功能库等常用的基础配置
 
-### 🚀 主要包括
+## 🚀 主要包括
 
 - TypeScript 配置
 - Jest 代码测试配置
