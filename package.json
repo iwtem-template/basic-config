@@ -7,12 +7,12 @@
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
-    "build": "tsc ",
     "format": "prettier --write **/*.ts",
     "format:check": "prettier --check **/*.ts",
     "lint": "eslint src/**/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
