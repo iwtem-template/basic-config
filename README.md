@@ -18,3 +18,5 @@
 - Prettier 代码美化配置
 - Commitlint 代码提交信息规范配置 
 - husky v8 等相关基础配置
+- 依赖自动更新机器人配置
+- GitHub Action 配置
